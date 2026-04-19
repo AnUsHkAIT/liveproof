@@ -4,7 +4,7 @@ AI-powered resume matcher. Upload your resume, paste any job description,
 get your match score instantly. Free, no signup needed.
 
 ## Live Site
-https://liveproof.onrender.com
+https://liveproof-kbez.onrender.com
 
 ## What it does
 - Upload resume (PDF, DOCX, TXT) or type your skills
@@ -14,4 +14,8 @@ https://liveproof.onrender.com
 - Downloads a custom tailored resume PDF
 
 ## Company URLs
-Send /for/google, /for/amazon, /for/meta to customize for specific companies.
+- https://liveproof-kbez.onrender.com/for/google
+- https://liveproof-kbez.onrender.com/for/amazon
+- https://liveproof-kbez.onrender.com/for/meta
+- https://liveproof-kbez.onrender.com/for/microsoft
+- https://liveproof-kbez.onrender.com/for/netflix
