@@ -13,7 +13,7 @@ router.post('/analyze', async (req, res) => {
 
   try {
     const completion = await client.chat.completions.create({
-      model: 'gemma2-9b-it',
+      model: 'openai/gpt-oss-20b',
       messages: [
         {
           role: 'user',
