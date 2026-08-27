@@ -13,7 +13,7 @@ router.post('/analyze', async (req, res) => {
 
   try {
     const completion = await client.chat.completions.create({
-      model: 'meta-llama/llama-4-scout-17b-16e-instruct',
+      model: 'gemma2-9b-it',
       messages: [
         {
           role: 'user',
